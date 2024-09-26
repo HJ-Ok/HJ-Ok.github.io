@@ -2,122 +2,79 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Hi, I'm Hyunjong Ok 😀
+I'm a first-year M.S. student in GSAI (Graduate School of Artificial Intelligence) at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University(KHU)](https://www.khu.ac.kr/).
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+My main research interest lies in multimodal learning, utilizing various modalities (such as images, text, and audio)  
+I am also interested in inference-efficient research and audio-related tasks (especially music)
 
 
-### Definition lists can be used with HTML syntax.
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Publications 📜
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+(\* means 'equal contribution')  
+  
+[AudioBERT: Audio Knowledge Augmented Language Model](https://arxiv.org/abs/2409.08199)  
+**Hyunjong Ok**\*, Suho Yoo\*, Jaeho Lee   
+under review  
 
-```
-The final element.
-```
+[S2Cap: Constructing a Singing Style Caption Dataset](https://arxiv.org/abs/2409.09866)  
+**Hyunjong Ok**, Jaeho Lee   
+under review 
+
+[Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher](https://arxiv.org/abs/2406.18002)   
+**Hyunjong Ok**, Jegwang Ryu, Jaeho Lee  
+**EMNLP**, 2024  
+
+[SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities](https://arxiv.org/abs/2404.01914)  
+**Hyunjong Ok**, Taeho Kil, Sukmin Seo, Jaeho Lee  
+**NAACL**, 2024   
+
+[FinTree: Financial Dataset Pretrain Transformer Encoder for Relation Extraction](https://arxiv.org/abs/2307.13900)   
+**Hyunjong Ok**  
+**SIGIR-23 Workshop** on Knowledge Discovery from Unstructured Data in Financial Services, 2023   
+
+[POST-TRAINED LANGUAGE MODEL ADAPTIVE TO EXTRACTIVE SUMMARIZATION OF LONG SPOKEN DOCUMENTS](https://ieeexplore.ieee.org/document/10094938)  
+**Hyunjong Ok**, Seong-Bae Park  
+**ICASSP Grand Challenge**, 2023  
+
+## Experience 🏢
+**AI Intern**, Naver CLOUD, Mar 2023 ~ Aug 2023  
+
+**Undergraduate Researcher**, NLP Lab, KyungHee University, Mar 2022 ~ Feb 2023
+
+**Data Engineer Intern**, Ingkle, Nov 2021 ~ Feb 2022  
+
+
+## Award 🏆
+한국어 AI 경진대회: ASR TRACK (**1ST PLACE: KOREA MINISTER'S AWARD**)   
+Ministry of Science and ICT, Oct 2022  
+
+KLAID LEGAL JUDGMENT PREDICTION CHALLENGE (**1ST PLACE**)  
+Law & Company, Dec 2022   
+
+유전체AI 경진대회 (**2ND PLACE**)  
+Infoboss, Dec 2022   
+
+문장 유형 분류 AI 경진대회 (**4TH PLACE**)  
+Sungkyunkwan University, Dec 2022     
+
+ICASSP 2023 MUG GRAND CHALLENGE 2ND TRACK (**1ST PLACE**)  
+Alibaba DAMO Academy , Feb 2023   
+
+SIGIR 2023 KDF WORKSHOP SHARED TASK (**2ND PLACE**)  
+J.P. Morgan AI Research, Jun 2023  
+
+한국어 AI 경진대회: ASR TRACK (**4TH PLACE)**  
+Ministry of Science and ICT, Nov 2023
+
+국방 AI 경진대회 (**4TH PLACE**)  
+Ministry of National Defense, Dec 2023  
+
+#### Kaggle
+KORE 2022 (**BRONZE** MEDAL), 2022 Jul   
+
+FEEDBACK PRIZE - EVALUATING STUDENT WRITING (**SILVER** MEDAL), 2022 Mar  
+
+COMMONLIT - EVALUATE STUDENT SUMMARIES (**SILVER** MEDAL, 2023 Oct  
