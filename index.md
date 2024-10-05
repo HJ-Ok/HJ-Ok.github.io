@@ -48,16 +48,16 @@ under review
 
 
 ## Award 🏆
-한국어 AI 경진대회: ASR TRACK (**1ST PLACE: KOREA MINISTER'S AWARD**)   
+Korean AI Challenge: ASR track (**1ST PLACE: KOREA MINISTER'S AWARD**)   
 Ministry of Science and ICT, Oct 2022  
 
-KLAID LEGAL JUDGMENT PREDICTION CHALLENGE (**1ST PLACE**)  
+KLAID legal judgment prediction challenge: Text classification (**1ST PLACE**)  
 Law & Company, Dec 2022   
 
-유전체AI 경진대회 (**2ND PLACE**)  
+Genome EC number classification AI challenge  (**2ND PLACE**)  
 Infoboss, Dec 2022   
 
-문장 유형 분류 AI 경진대회 (**4TH PLACE**)  
+Sentence type classification AI challenge  (**4TH PLACE**)  
 Sungkyunkwan University, Dec 2022     
 
 ICASSP 2023 MUG GRAND CHALLENGE 2ND TRACK (**1ST PLACE**)  
@@ -66,10 +66,10 @@ Alibaba DAMO Academy , Feb 2023
 SIGIR 2023 KDF WORKSHOP SHARED TASK (**2ND PLACE**)  
 J.P. Morgan AI Research, Jun 2023  
 
-한국어 AI 경진대회: ASR TRACK (**4TH PLACE)**  
+Korean AI challenge: ASR track (**4TH PLACE)**  
 Ministry of Science and ICT, Nov 2023
 
-국방 AI 경진대회 (**4TH PLACE**)  
+National defense AI challenge  (**4TH PLACE**)  
 Ministry of National Defense, Dec 2023  
 
 #### Kaggle
