@@ -17,11 +17,7 @@ I am also interested in inference-efficient research and audio-related tasks (es
   
 [AudioBERT: Audio Knowledge Augmented Language Model](https://arxiv.org/abs/2409.08199)  
 **Hyunjong Ok**\*, Suho Yoo\*, Jaeho Lee   
-under review  
-
-[S2Cap: Constructing a Singing Style Caption Dataset](https://arxiv.org/abs/2409.09866)  
-**Hyunjong Ok**, Jaeho Lee   
-under review 
+**ICASSP**, 2025  
 
 [Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher](https://arxiv.org/abs/2406.18002)   
 **Hyunjong Ok**, Jegwang Ryu, Jaeho Lee  
@@ -38,6 +34,11 @@ under review
 [POST-TRAINED LANGUAGE MODEL ADAPTIVE TO EXTRACTIVE SUMMARIZATION OF LONG SPOKEN DOCUMENTS](https://ieeexplore.ieee.org/document/10094938)  
 **Hyunjong Ok**, Seong-Bae Park  
 **ICASSP Grand Challenge**, 2023  
+
+[S2Cap: Constructing a Singing Style Caption Dataset](https://arxiv.org/abs/2409.09866)  
+**Hyunjong Ok**, Jaeho Lee   
+preprint 24.09
+
 
 ## Experience 🏢
 **AI Intern**, Naver CLOUD, Mar 2023 ~ Aug 2023  
