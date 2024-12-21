@@ -73,6 +73,9 @@ Ministry of Science and ICT, Nov 2023
 National defense AI challenge  (**4TH PLACE**)  
 Ministry of National Defense, Dec 2023  
 
+JKAIA (**Outstanding Paper**)  
+Korean Artificial Intelligence Association, Nov 2024
+
 #### Kaggle
 KORE 2022 (**BRONZE** MEDAL), 2022 Jul   
 
