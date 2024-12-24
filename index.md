@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Hi, I'm Hyunjong Ok 😀
-I'm a first-year M.S. student in GSAI (Graduate School of Artificial Intelligence) at [POSTECH Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University(KHU)](https://www.khu.ac.kr/).
+I'm a first-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
 
 My main research interest lies in multimodal learning, utilizing various modalities (such as images, text, and audio)  
 I am also interested in inference-efficient research and audio-related tasks (especially music)
@@ -29,7 +29,7 @@ I am also interested in inference-efficient research and audio-related tasks (es
 
 [FinTree: Financial Dataset Pretrain Transformer Encoder for Relation Extraction](https://arxiv.org/abs/2307.13900)   
 **Hyunjong Ok**  
-**SIGIR-23 Workshop** on Knowledge Discovery from Unstructured Data in Financial Services, 2023   
+**SIGIR Workshop** on Knowledge Discovery from Unstructured Data in Financial Services, 2023   
 
 [POST-TRAINED LANGUAGE MODEL ADAPTIVE TO EXTRACTIVE SUMMARIZATION OF LONG SPOKEN DOCUMENTS](https://ieeexplore.ieee.org/document/10094938)  
 **Hyunjong Ok**, Seong-Bae Park  
@@ -41,7 +41,7 @@ preprint 24.09
 
 
 ## Experience 🏢
-**AI Intern**, Naver CLOUD, Mar 2023 ~ Aug 2023  
+**AI Intern**, Naver CLOUD, Mar 2023 ~ Sep 2023  
 
 **Undergraduate Researcher**, NLP Lab, KyungHee University, Mar 2022 ~ Feb 2023
 
@@ -73,10 +73,10 @@ Ministry of Science and ICT, Nov 2023
 National defense AI challenge  (**4TH PLACE**)  
 Ministry of National Defense, Dec 2023  
 
-JKAIA (**Outstanding Paper**)  
+JKAIA (**OUTSTANDING PAPER AWARD**)  
 Korean Artificial Intelligence Association, Nov 2024
 
-#### Kaggle
+### Kaggle Competitions  
 KORE 2022 (**BRONZE** MEDAL), 2022 Jul   
 
 FEEDBACK PRIZE - EVALUATING STUDENT WRITING (**SILVER** MEDAL), 2022 Mar  
