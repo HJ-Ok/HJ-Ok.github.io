@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Hi, I'm Hyunjong Ok 😀
-I'm a first-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
+I'm a second-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
 
 My main research interest lies in multimodal learning, utilizing various modalities (such as images, text, and audio)  
 I am also interested in inference-efficient research and audio-related tasks (especially music)
