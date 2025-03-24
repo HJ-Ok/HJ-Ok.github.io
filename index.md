@@ -38,7 +38,7 @@ I am also interested in inference-efficient research and audio-related tasks (es
 ### *Under review*
 
 Speculative End-Turn Detector for Efficient Speech Chatbot Assistant   
-Hyunjong Ok, Suho Yoo, Jaeho Lee  
+**Hyunjong Ok**, Suho Yoo, Jaeho Lee  
 
 
 [Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models](https://arxiv.org/abs/2503.16853)  
