@@ -35,7 +35,17 @@ I am also interested in inference-efficient research and audio-related tasks (es
 **Hyunjong Ok**, Seong-Bae Park  
 **ICASSP Grand Challenge**, 2023  
 
-[S2Cap: Constructing a Singing Style Caption Dataset](https://arxiv.org/abs/2409.09866)  
+### *Under review*
+
+Speculative End-Turn Detector for Efficient Speech Chatbot Assistant   
+Hyunjong Ok, Suho Yoo, Jaeho Lee  
+
+
+[Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models](https://arxiv.org/abs/2503.16853)  
+Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee  
+preprint 25.03
+
+[S2Cap: A Benchmark and a Baseline for Singing Style Captioning](https://arxiv.org/abs/2409.09866)  
 **Hyunjong Ok**, Jaeho Lee   
 preprint 24.09
 
