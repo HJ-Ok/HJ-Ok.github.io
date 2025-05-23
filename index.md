@@ -14,6 +14,10 @@ I am also interested in inference-efficient research and audio-related tasks (es
 ## Publications 📜
 
 (\* means 'equal contribution')  
+
+[Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models](https://arxiv.org/abs/2503.16853)  
+Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee  
+**ACL Findings**, 2025 
   
 [AudioBERT: Audio Knowledge Augmented Language Model](https://arxiv.org/abs/2409.08199)  
 **Hyunjong Ok**\*, Suho Yoo\*, Jaeho Lee   
@@ -40,10 +44,6 @@ I am also interested in inference-efficient research and audio-related tasks (es
 [Speculative End-Turn Detector for Efficient Speech Chatbot Assistant](https://arxiv.org/abs/2503.23439)  
 **Hyunjong Ok**, Suho Yoo, Jaeho Lee  
 preprint 25.03  
-
-[Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models](https://arxiv.org/abs/2503.16853)  
-Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee  
-preprint 25.03
 
 [S2Cap: A Benchmark and a Baseline for Singing Style Captioning](https://arxiv.org/abs/2409.09866)  
 **Hyunjong Ok**, Jaeho Lee   
