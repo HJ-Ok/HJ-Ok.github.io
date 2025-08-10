@@ -15,6 +15,10 @@ I am also interested in inference-efficient research and audio-related tasks (es
 
 (\* means 'equal contribution')  
 
+[S2Cap: A Benchmark and a Baseline for Singing Style Captioning](https://arxiv.org/abs/2409.09866)  
+**Hyunjong Ok**, Jaeho Lee   
+**CIKM Resource Paper**, 2025 
+
 [Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models](https://arxiv.org/abs/2503.16853)  
 Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee  
 **ACL Findings**, 2025 
@@ -45,9 +49,6 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 **Hyunjong Ok**, Suho Yoo, Jaeho Lee  
 preprint 25.03  
 
-[S2Cap: A Benchmark and a Baseline for Singing Style Captioning](https://arxiv.org/abs/2409.09866)  
-**Hyunjong Ok**, Jaeho Lee   
-preprint 24.09
 
 
 ## Experience 🏢
@@ -85,6 +86,9 @@ Ministry of National Defense, Dec 2023
 
 JKAIA (**OUTSTANDING PAPER AWARD**)  
 Korean Artificial Intelligence Association, Nov 2024
+
+CKAIA (**OUTSTANDING PAPER AWARD**)  
+Korean Artificial Intelligence Association, Aug 2025
 
 ### Kaggle Competitions  
 KORE 2022 (**BRONZE** MEDAL), 2022 Jul   
