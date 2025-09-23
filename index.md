@@ -49,6 +49,13 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 **Hyunjong Ok**, Suho Yoo, Jaeho Lee  
 preprint 25.03  
 
+[Do Video Language Models Really Know Where to Look? Diagnosing Attention Failures in Video Language Models](https://arxiv.org/abs/2509.01167)  
+**Hyunjong Ok**, Jaeho Lee  
+preprint 25.09  
+
+[AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?](https://arxiv.org/abs/2509.17641)  
+**Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
+preprint 25.09  
 
 
 ## Experience 🏢
