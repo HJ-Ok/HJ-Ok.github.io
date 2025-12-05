@@ -57,8 +57,14 @@ preprint 25.09
 **Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
 preprint 25.09  
 
+[Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis](https://arxiv.org/abs/2511.21397)  
+Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee  
+preprint 25.11  
+
 
 ## Experience 🏢
+**AI Intern**, Upstage, Dec 2025 ~   
+
 **AI Intern**, Naver CLOUD, Mar 2023 ~ Sep 2023  
 
 **Undergraduate Researcher**, NLP Lab, KyungHee University, Mar 2022 ~ Feb 2023
