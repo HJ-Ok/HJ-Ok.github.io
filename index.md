@@ -63,9 +63,9 @@ preprint 25.11
 
 
 ## Experience 🏢
-**AI Intern**, Upstage, Dec 2025 ~   
+**AI Research Engineer Intern**, Upstage, Dec 2025 ~   
 
-**AI Intern**, Naver CLOUD, Mar 2023 ~ Sep 2023  
+**AI Research Engineer Intern**, Naver CLOUD, Mar 2023 ~ Sep 2023  
 
 **Undergraduate Researcher**, NLP Lab, KyungHee University, Mar 2022 ~ Feb 2023
 
