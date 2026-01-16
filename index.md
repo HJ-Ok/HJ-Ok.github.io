@@ -15,6 +15,10 @@ I am also interested in inference-efficient research and audio-related tasks (es
 
 (\* means 'equal contribution')  
 
+[AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?](https://arxiv.org/abs/2509.17641)  
+**Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
+**ICASSP**, 2026   
+
 [S2Cap: A Benchmark and a Baseline for Singing Style Captioning](https://arxiv.org/abs/2409.09866)  
 **Hyunjong Ok**, Jaeho Lee   
 **CIKM Resource Paper**, 2025 
@@ -51,10 +55,6 @@ preprint 25.03
 
 [Do Video Language Models Really Know Where to Look? Diagnosing Attention Failures in Video Language Models](https://arxiv.org/abs/2509.01167)  
 **Hyunjong Ok**, Jaeho Lee  
-preprint 25.09  
-
-[AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?](https://arxiv.org/abs/2509.17641)  
-**Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
 preprint 25.09  
 
 [Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis](https://arxiv.org/abs/2511.21397)  
