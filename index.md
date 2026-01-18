@@ -21,7 +21,7 @@ I am also interested in inference-efficient research and audio-related tasks (es
 
 [S2Cap: A Benchmark and a Baseline for Singing Style Captioning](https://arxiv.org/abs/2409.09866)  
 **Hyunjong Ok**, Jaeho Lee   
-**CIKM Resource Paper**, 2025 
+**CIKM** (Resource Paper), 2025 
 
 [Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models](https://arxiv.org/abs/2503.16853)  
 Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee  
@@ -45,7 +45,7 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 
 [POST-TRAINED LANGUAGE MODEL ADAPTIVE TO EXTRACTIVE SUMMARIZATION OF LONG SPOKEN DOCUMENTS](https://ieeexplore.ieee.org/document/10094938)  
 **Hyunjong Ok**, Seong-Bae Park  
-**ICASSP Grand Challenge**, 2023  
+**ICASSP** (Grand Challenge), 2023  
 
 ### *Under review*
 
