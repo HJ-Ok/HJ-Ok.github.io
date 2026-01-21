@@ -61,6 +61,9 @@ preprint 25.09
 Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee  
 preprint 25.11  
 
+[Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models](https://arxiv.org/abs/2601.14152)  
+**Hyunjong Ok**, Jaeho Lee  
+preprint 26.01  
 
 ## Experience 🏢
 **AI Research Engineer Intern**, Upstage, Dec 2025 ~   
