@@ -17,7 +17,7 @@ I am also interested in inference-efficient research and audio-related tasks (es
 
 [AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?](https://arxiv.org/abs/2509.17641)  
 **Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
-**ICASSP**, 2026   
+**ICASSP** (Oral), 2026   
 
 [S2Cap: A Benchmark and a Baseline for Singing Style Captioning](https://arxiv.org/abs/2409.09866)  
 **Hyunjong Ok**, Jaeho Lee   
@@ -53,10 +53,6 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 **Hyunjong Ok**, Suho Yoo, Jaeho Lee  
 preprint 25.03  
 
-[Do Video Language Models Really Know Where to Look? Diagnosing Attention Failures in Video Language Models](https://arxiv.org/abs/2509.01167)  
-**Hyunjong Ok**, Jaeho Lee  
-preprint 25.09  
-
 [Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis](https://arxiv.org/abs/2511.21397)  
 Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee  
 preprint 25.11  
@@ -64,6 +60,10 @@ preprint 25.11
 [Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models](https://arxiv.org/abs/2601.14152)  
 **Hyunjong Ok**, Jaeho Lee  
 preprint 26.01  
+
+[TEMPCORE: Are Video QA Benchmarks Temporally Grounded? A Frame Selection Sensitivity Analysis and Benchmark](https://arxiv.org/abs/2509.01167)  
+**Hyunjong Ok**, Jaeho Lee  
+preprint 26.03  
 
 ## Experience 🏢
 **AI Research Engineer Intern**, Upstage, Dec 2025 ~   
