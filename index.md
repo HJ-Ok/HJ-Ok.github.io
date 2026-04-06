@@ -15,6 +15,14 @@ I am also interested in inference-efficient research and audio-related tasks (es
 
 (\* means 'equal contribution')  
 
+[Speculative End-Turn Detector for Efficient Speech Chatbot Assistant](https://arxiv.org/abs/2503.23439)  
+**Hyunjong Ok**, Suho Yoo, Jaeho Lee  
+**ACL**, 2026 
+
+[Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models](https://arxiv.org/abs/2601.14152)  
+**Hyunjong Ok**, Jaeho Lee  
+**ACL Findings**, 2026  
+
 [AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?](https://arxiv.org/abs/2509.17641)  
 **Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
 **ICASSP** (Oral), 2026   
@@ -49,17 +57,11 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 
 ### *Under review*
 
-[Speculative End-Turn Detector for Efficient Speech Chatbot Assistant](https://arxiv.org/abs/2503.23439)  
-**Hyunjong Ok**, Suho Yoo, Jaeho Lee  
-preprint 25.03  
 
 [Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis](https://arxiv.org/abs/2511.21397)  
 Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee  
 preprint 25.11  
 
-[Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models](https://arxiv.org/abs/2601.14152)  
-**Hyunjong Ok**, Jaeho Lee  
-preprint 26.01  
 
 [TEMPCORE: Are Video QA Benchmarks Temporally Grounded? A Frame Selection Sensitivity Analysis and Benchmark](https://arxiv.org/abs/2509.01167)  
 **Hyunjong Ok**, Jaeho Lee  
