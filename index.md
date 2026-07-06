@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Hi, I'm Hyunjong Ok 😀
-I'm a second-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
+I'm a third-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
 
 I am broadly interested in **evaluation and benchmarking for multimodal AI systems**, particularly in understanding how **language models reason about knowledge grounded in other modalities**. My recent work focuses on building **diagnostic benchmarks** that reveal capability gaps in modern models, as well as developing **efficient benchmark selection methods** that preserve evaluation while reducing dataset scale.
 
