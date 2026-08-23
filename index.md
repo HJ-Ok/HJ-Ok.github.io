@@ -7,12 +7,6 @@ I'm a third-year Ph.D. student in GSAI (Graduate School of Artificial Intelligen
 
 I am broadly interested in **evaluation and benchmarking for multimodal AI systems**, particularly in understanding how **language models reason about knowledge grounded in other modalities**. My recent work focuses on building **diagnostic benchmarks** that reveal capability gaps in modern models, as well as developing **efficient benchmark selection methods** that preserve evaluation while reducing dataset scale.
 
-## News 📰
-
-- **Aug 2026**: Two papers ([TempCore](https://arxiv.org/abs/2509.01167) and [distractor effects on reasoning VLMs](https://arxiv.org/abs/2511.21397)) are accepted to **EMNLP 2026**!
-- **Aug 2026**: Received the 3·1 Scholarship from the 3·1 Foundation.
-- **Jun 2026**: Received the Ph.D. Excellence Scholarship (Science and Engineering) from the Korea Student Aid Foundation.
-
 ## Publications 📜
 
 (\* means 'equal contribution')
