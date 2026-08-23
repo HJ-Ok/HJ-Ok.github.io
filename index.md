@@ -15,6 +15,36 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 
 (\* means 'equal contribution')
 
+<div class="only-selected" markdown="1">
+
+[TempCore: Are Video QA Benchmarks Temporally Grounded? A Frame Selection Sensitivity Analysis and Benchmark](https://arxiv.org/abs/2509.01167)  
+**Hyunjong Ok**, Jaeho Lee  
+**EMNLP**, 2026
+
+[Speculative End-Turn Detector for Efficient Speech Chatbot Assistant](https://arxiv.org/abs/2503.23439)  
+**Hyunjong Ok**, Suho Yoo, Jaeho Lee  
+**ACL**, 2026
+
+[Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models](https://arxiv.org/abs/2601.14152)  
+**Hyunjong Ok**, Jaeho Lee  
+**ACL Findings**, 2026
+
+[AudioBERT: Audio Knowledge Augmented Language Model](https://arxiv.org/abs/2409.08199)  
+**Hyunjong Ok**\*, Suho Yoo\*, Jaeho Lee  
+**ICASSP**, 2025
+
+[Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher](https://arxiv.org/abs/2406.18002)  
+**Hyunjong Ok**, Jegwang Ryu, Jaeho Lee  
+**EMNLP**, 2024
+
+[SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities](https://arxiv.org/abs/2404.01914)  
+**Hyunjong Ok**, Taeho Kil, Sukmin Seo, Jaeho Lee  
+**NAACL**, 2024
+
+</div>
+
+<div class="only-all" markdown="1">
+
 ### 2026
 
 [TempCore: Are Video QA Benchmarks Temporally Grounded? A Frame Selection Sensitivity Analysis and Benchmark](https://arxiv.org/abs/2509.01167)  
@@ -60,8 +90,6 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 [SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities](https://arxiv.org/abs/2404.01914)  
 **Hyunjong Ok**, Taeho Kil, Sukmin Seo, Jaeho Lee  
 **NAACL**, 2024
-
-<div class="only-all" markdown="1">
 
 ### 2023
 
@@ -163,6 +191,8 @@ Research mentoring leading to publications at ICASSP 2025 and ACL Findings 2025.
 .view-toggle { font-size: 0.85em; margin: -0.4em 0 1.2em; }
 .view-toggle a { text-decoration: none; }
 .view-toggle a.active { font-weight: 700; text-decoration: underline; }
+.only-selected { display: none; }
+body[data-view="selected"] .only-selected { display: block; }
 body[data-view="selected"] .only-all { display: none; }
 </style>
 
