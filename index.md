@@ -3,113 +3,140 @@ layout: default
 ---
 
 ### Hi, I'm Hyunjong Ok 😀
-I'm a third-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
+I'm a third-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [Kyung Hee University (KHU)](https://www.khu.ac.kr/).
 
-I am broadly interested in **evaluation and benchmarking for multimodal AI systems**, particularly in understanding how **language models reason about knowledge grounded in other modalities**. My recent work focuses on building **diagnostic benchmarks** that reveal capability gaps in modern models, as well as developing **efficient benchmark selection methods** that preserve evaluation while reducing dataset scale.
+I develop **evaluation methods for multimodal and speech-enabled language models**. My work focuses on **diagnostic benchmark design**, auditory and temporal grounding, **full-duplex voice-agent evaluation**, and **data-efficient evaluation and inference** that preserve model-ranking fidelity at lower cost.
 
+## News 📰
 
-<!--Text can be **bold**, _italic_, or ~~strikethrough~~. -->
+- **Aug 2026**: Two papers ([TempCore](https://arxiv.org/abs/2509.01167) and [distractor effects on reasoning VLMs](https://arxiv.org/abs/2511.21397)) are accepted to **EMNLP 2026**!
+- **Aug 2026**: Received the 3·1 Scholarship from the 3·1 Foundation.
+- **Jun 2026**: Received the Ph.D. Excellence Scholarship (Science and Engineering) from the Korea Student Aid Foundation.
 
 ## Publications 📜
 
-(\* means 'equal contribution')  
+(\* means 'equal contribution')
+
+### 2026
+
+[TempCore: Are Video QA Benchmarks Temporally Grounded? A Frame Selection Sensitivity Analysis and Benchmark](https://arxiv.org/abs/2509.01167)  
+**Hyunjong Ok**, Jaeho Lee  
+**EMNLP**, 2026
+
+[Understanding the Effects of Distractors on Reasoning Vision-Language Models](https://arxiv.org/abs/2511.21397)  
+Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee  
+**EMNLP**, 2026
 
 [Speculative End-Turn Detector for Efficient Speech Chatbot Assistant](https://arxiv.org/abs/2503.23439)  
 **Hyunjong Ok**, Suho Yoo, Jaeho Lee  
-**ACL**, 2026 
+**ACL**, 2026
 
 [Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models](https://arxiv.org/abs/2601.14152)  
 **Hyunjong Ok**, Jaeho Lee  
-**ACL Findings**, 2026  
+**ACL Findings**, 2026
 
 [AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?](https://arxiv.org/abs/2509.17641)  
 **Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
-**ICASSP** (Oral), 2026   
+**ICASSP** (Oral), 2026
+
+### 2025
 
 [S2Cap: A Benchmark and a Baseline for Singing Style Captioning](https://arxiv.org/abs/2409.09866)  
-**Hyunjong Ok**, Jaeho Lee   
-**CIKM** (Resource Paper), 2025 
+**Hyunjong Ok**, Jaeho Lee  
+**CIKM** (Resource Paper), 2025
 
-[Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models](https://arxiv.org/abs/2503.16853)  
+[Imagine to Hear: Auditory Knowledge Generation Can Be an Effective Assistant for Language Models](https://arxiv.org/abs/2503.16853)  
 Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee  
-**ACL Findings**, 2025 
-  
-[AudioBERT: Audio Knowledge Augmented Language Model](https://arxiv.org/abs/2409.08199)  
-**Hyunjong Ok**\*, Suho Yoo\*, Jaeho Lee   
-**ICASSP**, 2025  
+**ACL Findings**, 2025
 
-[Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher](https://arxiv.org/abs/2406.18002)   
+[AudioBERT: Audio Knowledge Augmented Language Model](https://arxiv.org/abs/2409.08199)  
+**Hyunjong Ok**\*, Suho Yoo\*, Jaeho Lee  
+**ICASSP**, 2025
+
+### 2024
+
+[Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher](https://arxiv.org/abs/2406.18002)  
 **Hyunjong Ok**, Jegwang Ryu, Jaeho Lee  
-**EMNLP**, 2024  
+**EMNLP**, 2024
 
 [SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities](https://arxiv.org/abs/2404.01914)  
 **Hyunjong Ok**, Taeho Kil, Sukmin Seo, Jaeho Lee  
-**NAACL**, 2024   
+**NAACL**, 2024
 
-[FinTree: Financial Dataset Pretrain Transformer Encoder for Relation Extraction](https://arxiv.org/abs/2307.13900)   
-**Hyunjong Ok**  
-**SIGIR Workshop** on Knowledge Discovery from Unstructured Data in Financial Services, 2023   
+### 2023
 
-[POST-TRAINED LANGUAGE MODEL ADAPTIVE TO EXTRACTIVE SUMMARIZATION OF LONG SPOKEN DOCUMENTS](https://ieeexplore.ieee.org/document/10094938)  
+[Post-Trained Language Model Adaptive to Extractive Summarization of Long Spoken Documents](https://ieeexplore.ieee.org/document/10094938)  
 **Hyunjong Ok**, Seong-Bae Park  
-**ICASSP** (Grand Challenge), 2023  
+**ICASSP** (Grand Challenge), 2023
 
-### *Under review*
+### Workshops
 
-
-[Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis](https://arxiv.org/abs/2511.21397)  
-Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee  
-preprint 25.11  
-
-
-[TEMPCORE: Are Video QA Benchmarks Temporally Grounded? A Frame Selection Sensitivity Analysis and Benchmark](https://arxiv.org/abs/2509.01167)  
-**Hyunjong Ok**, Jaeho Lee  
-preprint 26.03  
+[FinTree: Financial Dataset Pretrain Transformer Encoder for Relation Extraction](https://arxiv.org/abs/2307.13900)  
+**Hyunjong Ok**  
+**SIGIR Workshop** on Knowledge Discovery from Unstructured Data in Financial Services, 2023
 
 ## Experience 🏢
-**AI Research Engineer Intern**, Upstage, Dec 2025 ~   
 
-**AI Research Engineer Intern**, Naver CLOUD, Mar 2023 ~ Sep 2023  
+**AI Research Engineer Intern**, Upstage, Dec 2025 – May 2026  
+*Data-efficient VLM evaluation methods that preserve model rankings while substantially reducing benchmark scale.*
 
-**Undergraduate Researcher**, NLP Lab, KyungHee University, Mar 2022 ~ Feb 2023
+**AI Research Engineer Intern**, Naver Cloud, Mar 2023 – Sep 2023  
+*OCR post-processing for document-AI pipelines and knowledge-enhanced multimodal NER (SCANNER, NAACL 2024).*
 
-**Data Engineer Intern**, Ingkle, Nov 2021 ~ Feb 2022  
+**Undergraduate Researcher**, NLP Lab, Kyung Hee University, Mar 2022 – Feb 2023
 
+**Data Engineer Intern**, Ingkle, Nov 2021 – Feb 2022
 
-## Award 🏆
-Korean AI Challenge: ASR track (**1ST PLACE: KOREA MINISTER'S AWARD**)   
-Ministry of Science and ICT, Oct 2022  
+## Scholarships 🎓
 
-KLAID legal judgment prediction challenge: Text classification (**1ST PLACE**)  
-Law & Company, Dec 2022   
+**3·1 Scholarship**, The 3·1 Foundation, Aug 2026
 
-Genome EC number classification AI challenge  (**2ND PLACE**)  
-Infoboss, Dec 2022   
+**Ph.D. Excellence Scholarship (Science and Engineering)**, Korea Student Aid Foundation, Jun 2026
 
-Sentence type classification AI challenge  (**4TH PLACE**)  
-Sungkyunkwan University, Dec 2022     
+## Awards 🏆
 
-ICASSP 2023 MUG GRAND CHALLENGE 2ND TRACK (**1ST PLACE**)  
-Alibaba DAMO Academy , Feb 2023   
+### International
 
-SIGIR 2023 KDF WORKSHOP SHARED TASK (**2ND PLACE**)  
-J.P. Morgan AI Research, Jun 2023  
+ICASSP 2023 MUG Grand Challenge, Track 2: Extractive Text Summarization (**1st Place**)  
+Alibaba Cloud, Feb 2023
 
-Korean AI challenge: ASR track (**4TH PLACE)**  
-Ministry of Science and ICT, Nov 2023
+SIGIR 2023 KDF Workshop Shared Task: Relation Extraction (**2nd Place**)  
+J.P. Morgan AI Research, Jun 2023
 
-National defense AI challenge  (**4TH PLACE**)  
-Ministry of National Defense, Dec 2023  
+Kaggle Competitions (**two Silver medals and one Bronze medal**)  
+Feedback Prize – Evaluating Student Writing (Silver, Mar 2022); CommonLit – Evaluate Student Summaries (Silver, Oct 2023); KORE 2022 (Bronze, Jul 2022)
 
-JKAIA (**OUTSTANDING PAPER AWARD**)  
-Korean Artificial Intelligence Association, Nov 2024
+### Domestic
 
-CKAIA (**OUTSTANDING PAPER AWARD**)  
+The 12th Conference of the Korean Artificial Intelligence Association, CKAIA (**Outstanding Paper Award**)  
 Korean Artificial Intelligence Association, Aug 2025
 
-### Kaggle Competitions  
-KORE 2022 (**BRONZE** MEDAL), 2022 Jul   
+The 11th Joint Conference of the Korean Artificial Intelligence Association, JKAIA (**Outstanding Paper Award**)  
+Korean Artificial Intelligence Association, Nov 2024
 
-FEEDBACK PRIZE - EVALUATING STUDENT WRITING (**SILVER** MEDAL), 2022 Mar  
+National Defense AI Challenge (**4th Place**)  
+Korea Ministry of National Defense, Dec 2023
 
-COMMONLIT - EVALUATE STUDENT SUMMARIES (**SILVER** MEDAL), 2023 Oct  
+Korean AI Challenge: ASR Track (**4th Place**)  
+Korea Ministry of Science and ICT, Nov 2023
+
+Korean AI Challenge: ASR Track (**1st Place: Minister's Award**)  
+Korea Ministry of Science and ICT, Oct 2022
+
+Legal Judgment Prediction Challenge: Text Classification (**1st Place**)  
+Law & Company, Dec 2022
+
+Genome EC Number Classification AI Challenge (**2nd Place**)  
+Infoboss, Dec 2022
+
+Sentence Type Classification AI Challenge (**4th Place**)  
+Sungkyunkwan University, Dec 2022
+
+## Mentoring 🌱
+
+**Suho Yoo**, M.S. student at KAIST, Aug 2024 – Sep 2025  
+Research mentoring leading to publications at ICASSP 2025 and ACL Findings 2025.
+
+## Academic Service ✍️
+
+**Conference Reviewer**: ACL Rolling Review (ARR), NeurIPS, CIKM
