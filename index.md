@@ -9,9 +9,10 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 
 ## Publications 📜
 
-<nav class="view-toggle" hidden aria-label="Publication view filter">
-  <a href="?view=selected" data-view="selected">Selected</a> · <a href="?view=all" data-view="all">All</a>
-</nav>
+<div class="view-toggle" role="tablist" aria-label="Publication view filter" hidden>
+  <button type="button" class="vt-btn" data-view="selected" role="tab" aria-selected="true">Selected</button>
+  <button type="button" class="vt-btn" data-view="all" role="tab" aria-selected="false">All</button>
+</div>
 
 (\* means 'equal contribution')
 
@@ -29,9 +30,9 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 **Hyunjong Ok**, Jaeho Lee  
 **ACL Findings**, 2026
 
-[AudioBERT: Audio Knowledge Augmented Language Model](https://arxiv.org/abs/2409.08199)  
-**Hyunjong Ok**\*, Suho Yoo\*, Jaeho Lee  
-**ICASSP**, 2025
+[AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?](https://arxiv.org/abs/2509.17641)  
+**Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
+**ICASSP** (Oral), 2026
 
 [Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher](https://arxiv.org/abs/2406.18002)  
 **Hyunjong Ok**, Jegwang Ryu, Jaeho Lee  
@@ -125,9 +126,10 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 
 ## Awards 🏆
 
-<nav class="view-toggle" hidden aria-label="Award view filter">
-  <a href="?view=selected" data-view="selected">Selected</a> · <a href="?view=all" data-view="all">All</a>
-</nav>
+<div class="view-toggle" role="tablist" aria-label="Award view filter" hidden>
+  <button type="button" class="vt-btn" data-view="selected" role="tab" aria-selected="true">Selected</button>
+  <button type="button" class="vt-btn" data-view="all" role="tab" aria-selected="false">All</button>
+</div>
 
 ### International
 
@@ -188,9 +190,19 @@ Research mentoring leading to publications at ICASSP 2025 and ACL Findings 2025.
 **Conference Reviewer**: ACL Rolling Review (ARR), NeurIPS, CIKM
 
 <style>
-.view-toggle { font-size: 0.85em; margin: -0.4em 0 1.2em; }
-.view-toggle a { text-decoration: none; }
-.view-toggle a.active { font-weight: 700; text-decoration: underline; }
+.view-toggle { display: flex; gap: 8px; margin: 0.2em 0 1.4em; }
+.vt-btn {
+  font: inherit; font-size: 0.85em;
+  padding: 5px 14px; border-radius: 8px; cursor: pointer;
+  border: 1px solid rgba(128, 128, 128, 0.45);
+  background: transparent; color: inherit;
+}
+.vt-btn:hover { border-color: #1772d0; }
+.vt-btn.active {
+  border-color: #1772d0; color: #1772d0;
+  box-shadow: inset 0 0 0 2px rgba(23, 114, 208, 0.12);
+  font-weight: 600;
+}
 .only-selected { display: none; }
 body[data-view="selected"] .only-selected { display: block; }
 body[data-view="selected"] .only-all { display: none; }
@@ -203,8 +215,10 @@ body[data-view="selected"] .only-all { display: none; }
 
   function setView(view, updateUrl) {
     document.body.setAttribute('data-view', view);
-    document.querySelectorAll('.view-toggle a').forEach(function (link) {
-      link.classList.toggle('active', link.getAttribute('data-view') === view);
+    document.querySelectorAll('.view-toggle .vt-btn').forEach(function (btn) {
+      var active = btn.getAttribute('data-view') === view;
+      btn.classList.toggle('active', active);
+      btn.setAttribute('aria-selected', active ? 'true' : 'false');
     });
     if (updateUrl) {
       var url = new URL(window.location);
@@ -219,10 +233,9 @@ body[data-view="selected"] .only-all { display: none; }
 
   toggles.forEach(function (toggle) {
     toggle.hidden = false;
-    toggle.querySelectorAll('a').forEach(function (link) {
-      link.addEventListener('click', function (event) {
-        event.preventDefault();
-        setView(link.getAttribute('data-view'), true);
+    toggle.querySelectorAll('.vt-btn').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        setView(btn.getAttribute('data-view'), true);
       });
     });
   });
