@@ -17,10 +17,6 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 **Hyunjong Ok**, Jaeho Lee  
 **EMNLP**, 2026
 
-[Understanding the Effects of Distractors on Reasoning Vision-Language Models](https://arxiv.org/abs/2511.21397)  
-Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee  
-**EMNLP**, 2026
-
 [Speculative End-Turn Detector for Efficient Speech Chatbot Assistant](https://arxiv.org/abs/2503.23439)  
 **Hyunjong Ok**, Suho Yoo, Jaeho Lee  
 **ACL**, 2026
@@ -32,6 +28,10 @@ Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee
 [AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?](https://arxiv.org/abs/2509.17641)  
 **Hyunjong Ok**\*, Suho Yoo\*, Hyeonjun Kim, Jaeho Lee  
 **ICASSP** (Oral), 2026
+
+[Understanding the Effects of Distractors on Reasoning Vision-Language Models](https://arxiv.org/abs/2511.21397)  
+Jiyun Bae, **Hyunjong Ok**, Sangwoo Mo, Jaeho Lee  
+**EMNLP**, 2026
 
 ### 2025
 
