@@ -46,6 +46,12 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 
 <div class="only-all" markdown="1">
 
+### Preprints
+
+[OmniKVQuant: KV Cache Quantization for Omni-LLMs](https://arxiv.org/abs/2609.11582)  
+Suho Yoo\*, **Hyunjong Ok**\*, Jongmin Choi, Jihoo Jung, Joon Son Chung  
+**arXiv preprint**, 2026
+
 ### 2026
 
 [TempCore: Are Video QA Benchmarks Temporally Grounded? A Frame Selection Sensitivity Analysis and Benchmark](https://arxiv.org/abs/2509.01167)  
@@ -119,6 +125,8 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 **Data Engineer Intern**, Ingkle, Nov 2021 – Feb 2022
 
 ## Scholarships 🎓
+
+**Soseon Sharing Fund Scholarship (Science and Technology)**, Community Chest of Korea, Daegu Branch, Sep 2026
 
 **3·1 Scholarship**, The 3·1 Foundation, Aug 2026
 
