@@ -9,14 +9,14 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 
 ## Publications 📜
 
-<div class="view-toggle" role="tablist" aria-label="Publication view filter" hidden>
+<div class="view-toggle" data-group="pub" role="tablist" aria-label="Publication view filter" hidden>
   <button type="button" class="vt-btn" data-view="selected" role="tab" aria-selected="true">Selected</button>
   <button type="button" class="vt-btn" data-view="all" role="tab" aria-selected="false">All</button>
 </div>
 
 (\* means 'equal contribution')
 
-<div class="only-selected" markdown="1">
+<div class="only-selected-pub" markdown="1">
 
 [TempCore: Are Video QA Benchmarks Temporally Grounded? A Frame Selection Sensitivity Analysis and Benchmark](https://arxiv.org/abs/2509.01167)  
 **Hyunjong Ok**, Jaeho Lee  
@@ -44,7 +44,7 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 
 </div>
 
-<div class="only-all" markdown="1">
+<div class="only-all-pub" markdown="1">
 
 ### Preprints
 
@@ -134,7 +134,7 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 
 ## Awards 🏆
 
-<div class="view-toggle" role="tablist" aria-label="Award view filter" hidden>
+<div class="view-toggle" data-group="awards" role="tablist" aria-label="Award view filter" hidden>
   <button type="button" class="vt-btn" data-view="selected" role="tab" aria-selected="true">Selected</button>
   <button type="button" class="vt-btn" data-view="all" role="tab" aria-selected="false">All</button>
 </div>
@@ -147,7 +147,7 @@ Alibaba Cloud, Feb 2023
 SIGIR 2023 KDF Workshop Shared Task: Relation Extraction (**2nd Place**)  
 J.P. Morgan AI Research, Jun 2023
 
-<div class="only-all" markdown="1">
+<div class="only-all-awards" markdown="1">
 
 Kaggle Competitions (**two Silver medals and one Bronze medal**)  
 Feedback Prize – Evaluating Student Writing (Silver, Mar 2022); CommonLit – Evaluate Student Summaries (Silver, Oct 2023); KORE 2022 (Bronze, Jul 2022)
@@ -162,7 +162,7 @@ Korean Artificial Intelligence Association, Aug 2025
 The 11th Joint Conference of the Korean Artificial Intelligence Association, JKAIA (**Outstanding Paper Award**)  
 Korean Artificial Intelligence Association, Nov 2024
 
-<div class="only-all" markdown="1">
+<div class="only-all-awards" markdown="1">
 
 National Defense AI Challenge (**4th Place**)  
 Korea Ministry of National Defense, Dec 2023
@@ -178,7 +178,7 @@ Korea Ministry of Science and ICT, Oct 2022
 Legal Judgment Prediction Challenge: Text Classification (**1st Place**)  
 Law & Company, Dec 2022
 
-<div class="only-all" markdown="1">
+<div class="only-all-awards" markdown="1">
 
 Genome EC Number Classification AI Challenge (**2nd Place**)  
 Infoboss, Dec 2022
@@ -211,19 +211,21 @@ Research mentoring leading to publications at ICASSP 2025 and ACL Findings 2025.
   box-shadow: inset 0 0 0 2px rgba(23, 114, 208, 0.12);
   font-weight: 600;
 }
-.only-selected { display: none; }
-body[data-view="selected"] .only-selected { display: block; }
-body[data-view="selected"] .only-all { display: none; }
+.only-selected-pub { display: none; }
+body[data-view-pub="selected"] .only-selected-pub { display: block; }
+body[data-view-pub="selected"] .only-all-pub { display: none; }
+body[data-view-awards="selected"] .only-all-awards { display: none; }
 </style>
 
 <script>
 (function () {
-  var toggles = document.querySelectorAll('.view-toggle');
+  var toggles = document.querySelectorAll('.view-toggle[data-group]');
   if (!toggles.length) return;
 
-  function setView(view, updateUrl) {
-    document.body.setAttribute('data-view', view);
-    document.querySelectorAll('.view-toggle .vt-btn').forEach(function (btn) {
+  function setView(toggle, view, updateUrl) {
+    var group = toggle.getAttribute('data-group');
+    document.body.setAttribute('data-view-' + group, view);
+    toggle.querySelectorAll('.vt-btn').forEach(function (btn) {
       var active = btn.getAttribute('data-view') === view;
       btn.classList.toggle('active', active);
       btn.setAttribute('aria-selected', active ? 'true' : 'false');
@@ -231,24 +233,24 @@ body[data-view="selected"] .only-all { display: none; }
     if (updateUrl) {
       var url = new URL(window.location);
       if (view === 'selected') {
-        url.searchParams.delete('view');
+        url.searchParams.delete('view-' + group);
       } else {
-        url.searchParams.set('view', view);
+        url.searchParams.set('view-' + group, view);
       }
       history.replaceState(null, '', url);
     }
   }
 
+  var params = new URLSearchParams(window.location.search);
   toggles.forEach(function (toggle) {
     toggle.hidden = false;
     toggle.querySelectorAll('.vt-btn').forEach(function (btn) {
       btn.addEventListener('click', function () {
-        setView(btn.getAttribute('data-view'), true);
+        setView(toggle, btn.getAttribute('data-view'), true);
       });
     });
+    var param = params.get('view-' + toggle.getAttribute('data-group'));
+    setView(toggle, param === 'all' ? 'all' : 'selected', false);
   });
-
-  var param = new URLSearchParams(window.location.search).get('view');
-  setView(param === 'all' ? 'all' : 'selected', false);
 })();
 </script>
