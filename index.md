@@ -48,6 +48,10 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 
 ### Preprints
 
+[Hierarchical Compression of Vision-Language Model Benchmarks](https://arxiv.org/abs/2609.37515)  
+**Hyunjong Ok**, Seunggu Kang, Jaeho Lee  
+**arXiv preprint**, 2026
+
 [OmniKVQuant: KV Cache Quantization for Omni-LLMs](https://arxiv.org/abs/2609.11582)  
 Suho Yoo\*, **Hyunjong Ok**\*, Jongmin Choi, Jihoo Jung, Joon Son Chung  
 **arXiv preprint**, 2026
