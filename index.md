@@ -52,6 +52,10 @@ I am broadly interested in **evaluation and benchmarking for multimodal AI syste
 **Hyunjong Ok**, Seunggu Kang, Jaeho Lee  
 **arXiv preprint**, 2026
 
+[One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation](https://arxiv.org/abs/2610.20993)  
+**Hyunjong Ok**, Minjae Park, Jaeho Lee  
+**arXiv preprint**, 2026
+
 [OmniKVQuant: KV Cache Quantization for Omni-LLMs](https://arxiv.org/abs/2609.11582)  
 Suho Yoo\*, **Hyunjong Ok**\*, Jongmin Choi, Jihoo Jung, Joon Son Chung  
 **arXiv preprint**, 2026
