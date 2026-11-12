@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Hi, I'm Hyunjong Ok 😀
-I'm a third-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
+I'm a third-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). I am a recipient of the [2026 Google Ph.D. Fellowship](https://research.google/programs-and-events/phd-fellowship/) in Natural Language Processing. Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
 
 I am broadly interested in **evaluation and benchmarking for multimodal AI systems**, particularly in understanding how **language models reason about knowledge grounded in other modalities**. My recent work focuses on building **diagnostic benchmarks** that reveal capability gaps in modern models, as well as developing **efficient benchmark selection methods** that preserve evaluation while reducing dataset scale.
 
@@ -133,6 +133,8 @@ Suho Yoo\*, **Hyunjong Ok**\*, Jaeho Lee
 **Data Engineer Intern**, Ingkle, Nov 2021 – Feb 2022
 
 ## Scholarships 🎓
+
+**[Google Ph.D. Fellowship in Natural Language Processing](https://research.google/programs-and-events/phd-fellowship/)**, Google, Sep 2026
 
 **Soseon Sharing Fund Scholarship (Science and Technology)**, Community Chest of Korea, Daegu Branch, Sep 2026
 
