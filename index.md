@@ -5,7 +5,9 @@ layout: default
 ### Hi, I'm Hyunjong Ok 😀
 I'm a third-year Ph.D. student in GSAI (Graduate School of Artificial Intelligence) at POSTECH [Efficient Learning Lab (EffL)](http://effl.postech.ac.kr), advised by [Prof. Jaeho Lee](https://jaeho-lee.github.io). I am a recipient of the [2026 Google Ph.D. Fellowship](https://research.google/programs-and-events/phd-fellowship/) in Natural Language Processing. Before joining POSTECH, I completed my B.S. degree in software convergence from [KyungHee University (KHU)](https://www.khu.ac.kr/).
 
-I am broadly interested in **evaluation and benchmarking for multimodal AI systems**, particularly in understanding how **language models reason about knowledge grounded in other modalities**. My recent work focuses on building **diagnostic benchmarks** that reveal capability gaps in modern models, as well as developing **efficient benchmark selection methods** that preserve evaluation while reducing dataset scale.
+I am interested in **evaluation for multimodal and speech systems**, particularly how language models use knowledge grounded in other modalities. I work on **diagnostic benchmarks** for auditory and temporal grounding, prompt-order and option-bias analysis, full-duplex end-of-turn detection, and **benchmark compression** that preserves model rankings while reducing dataset scale. My interests are moving from benchmarks toward evaluating and improving agents.
+
+**Recent interests:** Weight-Space Programming, Simulator-based Evaluation, Voice Agent Evaluation, Harness Evolution (Evaluation)
 
 ## Publications 📜
 
