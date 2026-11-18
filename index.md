@@ -50,9 +50,9 @@ I am interested in **evaluation for multimodal and speech systems**, particularl
 
 ### Preprints
 
-[Weight-Space Programming Doesn't Need Transformers](https://www.alphaxiv.org/abs/2611.weight-space-programming-associative-memory)  
+[Weight-Space Programming Doesn't Need Transformers](https://arxiv.org/abs/2611.22055)  
 **Hyunjong Ok**, Jaeho Lee  
-**Preprint**, 2026
+**arXiv preprint**, 2026
 
 [Hierarchical Compression of Vision-Language Model Benchmarks](https://arxiv.org/abs/2609.37515)  
 **Hyunjong Ok**, Seunggu Kang, Jaeho Lee  
